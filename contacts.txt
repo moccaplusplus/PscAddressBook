@@ -1,0 +1,15 @@
+Zygfryd;Nowak;Szczebrzeszyn, Tuwima 11;19180503;67-555-45-76,606-537-444;zygfryd@gmail.com,zygzag@google.com
+Tomek;Domek;Warszawa, ul. Panska 5;19000101;666-777-888;tomek@malpa.zoo
+Test;Tester;ul. Testowa, Testowo;19901018;123-123-123;tester@tester.com
+Jurek;Og¢rek;Zielona G¢ra, ul. Og¢rkowa 1;19990101;11-222-65-44;jerry@cucumber.org
+Filemon;Kot;Nowa Wieò 123;19661130;12-234-55-66;kot.filemon@tvp.pl
+Grzegorz;Brz©czyszczykiewicz;Chrz•szczyrzewoszyce, Powiat ù©koàody;19250505;42-222-21-22;grzegorz@lwp.pl
+Tytus;de Zoo;Warszawa, Frascatti 5/3;19751221;42-123-45-12;tytus@zoo.de
+James;Bond;Londyn, Canary Wharf 543;19680713;38-123-345-678;a.007@mi6.gov.uk
+Jan;Dzban;Warszawa, ówi©tokorzyska 177;19990505;22-364-34-34;janek@dzbanek.com,
+Mariano;Italiano;Pruszk¢w, ul. Woàomi‰ska 7;19891106;34-345-53-34;mariano@italiano.it
+Angela;Makrela;Berlin, Karl-Marx-Allee 1;19550421;34-533-43-54;makrela@sklep.rybny.pl
+Krystyna;Janda;Warszawa, Marszalkowskia 13;19600212;22-523-35-22;krystyna@janda.pl
+Borys;Szyc;Warszawa, Jana Pawla II 17;19800205;606-777-443;borys@onet.pl
+Jerzy;Zalezy-JakLezy;Niedaleko, ulica Okolica;19891104;54-646-45-43;jerzy@niezalezy.com
+Jacek;Placek;Czechowice-Dziedzice;19991113;22-435-43-33;jacek@platz.de,jacek@poczta.com
